@@ -1,0 +1,63 @@
+/* Color Palette:
+blue: #3b5370
+brown: #594a3d
+tan: #c5bead
+pink: #b16666
+   
+*/
+
+/* Heading Colors */
+    h1 {
+    color: #3b5370
+    }
+
+        h2 {
+        color: #3b5370;
+        }
+
+             h3 {
+            color: #3b5370; 
+            }
+
+body {
+    background-color: #c5bead;
+    color: #b16666;
+    font-family: Courier New, Papyrus, sans-serif;
+}
+
+header {
+    background-color: #c5bead;
+    padding: 20px;
+}
+div {
+    width: 300px;
+    height: 100px;
+    background-color: #c5bead;
+    border: 2px solid #c5bead;
+    padding: 20px;
+    margin: 30px;
+}
+/*Assignment 02*/
+
+body {
+    background-color: #c5bead;
+}
+
+main {
+    margin: 30px;
+}
+
+h1 {
+    color: #594a3d;
+    font-family: Courier New, 'Papyrus';
+}
+
+p {
+    color: #594a3d;
+    font-family: Courier New, 'Papyrus', Times, serif;
+}
+
+header {
+    background-color: #c5bead;
+    padding: 20px;
+}
