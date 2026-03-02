@@ -8,15 +8,15 @@ pink: #ba7f70;
 
 /* Heading Colors */
     h1 {
-    color: #2b2c24;
+    color:  #385c76;
     }
 
         h2 {
-        color: #2b2c24;
+        color:  #385c76;
         }
 
              h3 {
-            color: #2b2c24; 
+            color: #385c76;
             }
 
 body {
@@ -48,7 +48,7 @@ main {
 }
 
 h1 {
-    color: #2b2c24;
+    color: #385c76;
     font-family: Courier New, 'Papyrus';
 }
 
@@ -58,6 +58,6 @@ p {
 }
 
 header {
-    background-color: #f9f6ef;
+    background-color:  #385c76;
     padding: 20px;
 }
