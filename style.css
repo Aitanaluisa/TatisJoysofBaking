@@ -1,7 +1,7 @@
 /* Color Palette:
 navy blue: #385c76
 green: #2b2c24
-tan: #fced5
+tan: #f9f6ef
 pink: #ba7f70
    
 */
@@ -20,27 +20,27 @@ pink: #ba7f70
             }
 
 body {
-    background-color: #fced5;
+    background-color: #f9f6ef;
     color: #2b2c24;
     font-family: Courier New, Papyrus, sans-serif;
 }
 
 header {
-    background-color: #fced5;
+    background-color: #f9f6ef;
     padding: 20px;
 }
 div {
     width: 200px;
     height: 100px;
-    background-color: #fced5;
-    border: 2px solid #fced5;
+    background-color: #f9f6ef;
+    border: 2px solid: #f9f6ef;
     padding: 20px;
     margin: 60px;
 }
 /*Assignment 02*/
 
 body {
-    background-color: #fced5;
+    background-color: #f9f6ef;
 }
 
 main {
@@ -58,6 +58,6 @@ p {
 }
 
 header {
-    background-color: #fced5;
+    background-color: #f9f6ef;
     padding: 20px;
 }
